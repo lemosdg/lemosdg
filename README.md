@@ -4,7 +4,7 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
 
 <h1 align="center">Technical Skills</h1>
 
-### <p>Frontend</p>
+- <h3> Frontend </h3>
 <p> 
   &emsp; 
   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
@@ -24,7 +24,7 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
   <img alt="Astro" src="https://img.shields.io/badge/astro-%23BC52EE.svg?&logo=astro&logoColor=white">
 </p>
 
-### <p>DevOps/Tools</p>
+- <h3> DevOps/Tools </h3>
 <p> 
   &emsp; 
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05032.svg?&logo=git&logoColor=white">
