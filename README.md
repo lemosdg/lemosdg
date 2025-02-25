@@ -49,7 +49,7 @@ src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1
 <h1 align="center">Contact me</h1>
 
 <p align="center">
-	<a href="mailto:diegolemosgarcia@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://mail.google.com/mail/?view=cm&fs=1&to=diegolemosgarcia@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/lemosdg"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/diego-lemos-garcia-9b1933243/)"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
